@@ -9,6 +9,8 @@
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+![Bash](https://img.icons8.com/fluent/48/000000/bash.png)
 
+![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiktor-99&show=prs_merged,prs_merged_percentage)
 
 
