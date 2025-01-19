@@ -1,9 +1,9 @@
 ### Hi there, I'm Wiktor 👋
-- I’m a C++ developer and robotics engineer 🤖
-- I'm mainly interested in Robotics, especially ROS 2 and AI 🤖🧠
-- I’m looking to collaborate on open-source projects or side-projects 🌟
+- I’m a C++ and Python developer, as well as a Robotics Engineer 🤖
+- My main interests are mobile robotics, ROS 2, and AI 🤖🧠
+- I’m looking to collaborate on open-source projects or side projects 🌟
 
-### Languages and tools that I use:
+### Languages and tools I use:
 
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
